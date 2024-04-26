@@ -33,7 +33,10 @@ To run the Todo List application locally, follow these steps:
 •	Then go to the project directory and the run npm install.
 
 •	cd Todo
+
 •	Run npm install
+
 •	Run npm start
+
 	
 
