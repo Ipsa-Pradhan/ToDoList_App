@@ -15,7 +15,7 @@ const ToDoList =({toDoList,handleToggle, handleFilter}) => {
             }
             )}
             <button style={{margin: '30px', backgroundColor: "greenyellow"}} 
-            onClick={handleFilter}>Clear Completed Task</button>
+            onClick={handleFilter}>Clear Completed Tasks</button>
         </div>
     )
 }
